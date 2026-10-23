@@ -1,5 +1,5 @@
-import type { Prato } from '../types';
-import CartaoPrato from './CartaoPrato';
+import type { Prato } from "../types";
+import CartaoPrato from "./CartaoPrato";
 
 type ListaPratosProps = {
   pratos: Prato[];
